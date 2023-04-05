@@ -1,0 +1,10 @@
+﻿config: shablon
+substitutes:
+  avatar: "avatars150x150/lika.png"
+  name: "Лика Петрова"
+  color1: example/colors/red.png
+  icon1: example/icons/female.png
+  color2: example/colors/red.png
+  icon2: example/icons/fire.png
+  color3: example/colors/yellow.png
+  icon3: example/icons/pet.png

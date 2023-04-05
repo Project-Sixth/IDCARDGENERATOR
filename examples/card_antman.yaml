@@ -1,0 +1,11 @@
+﻿config: shablon
+substitutes:
+  avatar: "avatars150x150/antman.png"
+  name: "Мур@вей"
+  color1: example/colors/green.png
+  icon1: example/icons/female.png
+  color2: example/colors/yellow.png
+  icon2: example/icons/fire.png
+  color3: example/colors/green.png
+  icon3: example/icons/pet.png
+  color4: example/colors/red.png
